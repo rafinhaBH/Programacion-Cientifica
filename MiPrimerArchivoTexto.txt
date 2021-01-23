@@ -1,0 +1,1 @@
+El valor de var1 es: 100 y el valor de var2 es: 300
